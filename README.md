@@ -12,4 +12,4 @@ Data will be shown with numbers and charts on a Flask webserver hosted by the Ra
 Languages used:</br> 
 Python: hardware sensors, back-end website</br>
 Javascript: front-end website</br>
-HTML/css:front-end
+HTML/CSS:front-end
