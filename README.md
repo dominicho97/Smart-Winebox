@@ -10,6 +10,6 @@ The live-data will be stored in a MYSQL database.</br>
 Data will be shown with numbers and charts on a Flask webserver hosted by the Raspberry Pi.
 
 Languages used:</br> 
-Python: hardware sensors</br> back-end website</br>
+Python: hardware sensors, back-end website</br>
 Javascript: front-end website</br>
 HTML/css:front-end
