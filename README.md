@@ -14,4 +14,4 @@ Python: hardware sensors, back-end website</br>
 Javascript: front-end website</br>
 HTML/CSS:front-end
 ![winebox8](https://github.com/dominicho97/Smart-Winebox/assets/43000003/3d50448c-5a9c-4853-87af-3e3f92e0c661)
-![winebox](https://github.com/dominicho97/Smart-Winebox/assets/43000003/eb474a2f-3511-4160-ac69-120468a35afa)
+![winebox](https://github.com/dominicho97/Smart-Winebox/assets/43000003/35a8b48c-1044-4914-adfd-72df929389d3)
