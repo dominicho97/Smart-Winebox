@@ -12,7 +12,8 @@ Data will be shown with numbers and charts on a Flask webserver hosted by the Ra
 Languages used:</br> 
 Python: hardware sensors, back-end website</br>
 Javascript: front-end website</br>
-HTML/CSS:front-end
+HTML/CSS:front-end <br>
+
 Interface with live measurements:
 ![winebox8](https://github.com/dominicho97/Smart-Winebox/assets/43000003/3d50448c-5a9c-4853-87af-3e3f92e0c661)
 ![winebox10](https://github.com/dominicho97/Smart-Winebox/assets/43000003/02ed4535-afca-4c42-a068-c3a20e745c97)
