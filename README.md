@@ -13,3 +13,4 @@ Languages used:</br>
 Python: hardware sensors, back-end website</br>
 Javascript: front-end website</br>
 HTML/CSS:front-end
+![winebox8](https://github.com/dominicho97/Smart-Winebox/assets/43000003/3d50448c-5a9c-4853-87af-3e3f92e0c661)
